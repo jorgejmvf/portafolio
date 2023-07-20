@@ -1,0 +1,23 @@
+.hard__html{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 270px;
+    padding:.40rem
+}
+
+.hard__css{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 270px;
+    padding:.40rem
+}
+
+.hard__js{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 270px;
+    padding:.40rem
+}

@@ -1,0 +1,47 @@
+.soft__organizacion{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 270px;
+    padding:.40rem
+}
+
+.texto__organizacion{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100px;
+    padding:.40rem
+}
+
+.soft__proactivo{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 270px;
+    padding:.40rem
+}
+
+.texto__proactividad{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100px;
+    padding:.40rem
+}
+
+.soft__equipo{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 270px;
+    padding:.40rem
+}
+
+.texto__equipo{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100px;
+    padding:.40rem
+}
